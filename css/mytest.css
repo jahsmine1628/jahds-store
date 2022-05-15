@@ -1,0 +1,38 @@
+body {background-color:orange;
+	color:black;background-image:url(Chrysanthemum.jpg);opacity: 0.5;}
+	#topbar {width:1000px;margin:0 auto;
+	background-color:white;height:40px;border-radius: 0pt;} 
+	#a {font-style: italic;color:aqua;font-size: large;}
+	#b {}
+	#c {@m}
+	#d {}
+	#e {}
+	#f {}
+	#g {}
+	.topbar_section {float:left;border-left:1px blue solid;
+					height:100%;font-family:Engravers MT;opacity:0.9;}
+h1	{color:cyan;
+}
+h2	{color:green;
+font-family:Castellar,}
+
+h3	{color:gray;
+font-family:Algerian}
+
+h4	{color:blue;
+font-family:Goudy Stout}
+
+h5	{color:violet;
+font-family:GungsuhChe}
+
+h6	{color:pink;
+font-family:Harlow Solid Italic}
+
+i	{color:white;
+font-family:Algerian}
+
+u	{color:green;
+font-family:Blackadder ITC}
+
+b	{color:green;
+font-family:Brush Script MT}
